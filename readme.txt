@@ -1,11 +1,11 @@
-<h1>W3 School Front Page (Responsive)</h1>
+**W3 School Front Page (Responsive) **
 
 
 
-<h2> Technologies:</h2>
-<p>
+## Technologies:
+
 - HTML & CSS
 - Javascript
 - Jquery
 - Bootstrap 
-</p>
+
