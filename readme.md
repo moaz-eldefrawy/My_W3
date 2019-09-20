@@ -1,5 +1,5 @@
 <h1>W3 School Front Page (Responsive for all devices) </h1>
-<hr> 
+
 
 <br>
 
