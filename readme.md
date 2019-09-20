@@ -9,7 +9,10 @@
 - Javascript
 - Jquery
 - Bootstrap 
+
 <Br>
-## Extra
+  
+
+## Extra:
 - I had a chance to play with Boostrap files and modify it to fit my website, which was pretty Cool ^_^. 
 - I also did a lot of Media Quey stuff.
